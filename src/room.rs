@@ -1,0 +1,2 @@
+struct RoomDistributor {}
+impl RoomDistributor {}
